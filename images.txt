@@ -6,3 +6,4 @@ busybox:latest
 alpine:3.19
 mysql
 redis
+eclipse-mosquitto
